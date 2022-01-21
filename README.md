@@ -19,9 +19,10 @@ Follow these steps to build and run this application:
 
 Browse to `http://localhost:8080` and authenticate using the credentials listed above:
 
-<img src="src/main/doc/authentication.png" width="500">
+<img src="src/main/doc/Screenshot_1.jpg" width="500">
 
 Once authenticated, the chat will be displayed and the online contacts will be seen on the left. Open multiple tabs/windows and authenticate with different users. Write a message and hit <kbd>Enter</kbd> or click the _Send_ button to chat:
 
-<img src="src/main/doc/joe window.png" width="500">
-<img src="src/main/doc/jane window.png" width="500">
+<img src="src/main/doc/Screenshot_2.jpg" width="500">
+<img src="src/main/doc/Screenshot_3.jpg" width="500">
+<img src="src/main/doc/Screenshot_4.jpg" width="500">
